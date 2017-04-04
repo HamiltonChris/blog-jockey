@@ -1,6 +1,6 @@
 *.swp
 *.pyc
 *.json
-settings.py
+settings_secret.py
 db.sqlite3
 
